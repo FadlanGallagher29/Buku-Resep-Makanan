@@ -1,5 +1,11 @@
-flutter:
-  uses-material-design: true
+name: buku_resep
+description: "Aplikasi Buku Resep Masakan"
+publish_to: 'none'
+version: 1.0.0+1
 
-  assets:
-    - assets/data/resep.json
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
