@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nama": "Nasi Goreng",
+        "kesulitan": "Mudah",
+        "durasiMenit": 20,
+        "bahan": [
+            "2 piring nasi putih",
+            "2 siung bawang putih",
+            "2 butir telur",
+            "Kecap manis",
+            "Garam secukupnya",
+            "Minyak goreng"
+        ],
+        "langkah": [
+            "Haluskan bawang putih",
+            "Panaskan minyak di wajan",
+            "Masukkan bawang putih dan tumis hingga harum",
+            "Masukkan telur lalu aduk hingga matang",
+            "Masukkan nasi putih dan kecap manis",
+            "Tambahkan garam lalu aduk hingga merata",
+            "Nasi goreng siap disajikan"
+        ]
+    },
+    {
+        "id": 2,
+        "nama": "Mie Goreng",
+        "kesulitan": "Mudah",
+        "durasiMenit": 15,
+        "bahan": [
+            "1 bungkus mie telur",
+            "1 butir telur",
+            "2 siung bawang putih",
+            "Kecap manis",
+            "Sayuran secukupnya"
+        ],
+        "langkah": [
+            "Rebus mie hingga matang",
+            "Tumis bawang putih hingga harum",
+            "Masukkan telur dan sayuran",
+            "Masukkan mie yang sudah direbus",
+            "Tambahkan kecap manis dan aduk rata",
+            "Mie goreng siap disajikan"
+        ]
+    },
+    {
+        "id": 3,
+        "nama": "Ayam Goreng",
+        "kesulitan": "Sedang",
+        "durasiMenit": 40,
+        "bahan": [
+            "500 gram, ayam",
+            "3 siung bawang putih",
+            "1 sendok teh ketumbar",
+            "Garam secukupnya",
+            "Air secukupnya",
+            "Minyak goreng"
+        ],
+        "langkah": [
+            "Cuci ayam hingga bersih",
+            "Haluskan bawang putih dan ketumbar",
+            "Rebus ayam bersama bumbu hingga meresap",
+            "Panaskan minyak dalam wajan",
+            "Goreng ayam hingga matang",
+            "Ayam goreng siap disajikan"
+        ]
+    },
+    {
+        "id": 4,
+        "nama": "Pisang Goreng",
+        "kesulitan": "Mudah",
+        "durasiMenit": 15,
+        "bahan": [
+            "5 buah pisang",
+            "100 gram tepung terigu",
+            "2 sendok makan gula",
+            "Air secukupnya",
+            "Minyak goreng"
+        ],
+        "langkah": [
+            "Campurkan tepung terigu dan gula",
+            "Tambahlan air lalu aduk hingga menjadi adonan",
+            "Kupas pisang dan masukkan ke adonan",
+            "Panaskan minyak",
+            "Goreng pisang hingga berwarna keemasan",
+            "Pisang goreng siap disajikan"
+        ]
+    },
+    {
+        "id": 5,
+        "nama": "Soto Ayam",
+        "kesulitan": "Sulit",
+        "durasiMenit": 60,
+        "bahan": [
+            "500 gram ayam",
+            "2 liter air",
+            "4 siung bawang putih",
+            "5 siung bawang merah",
+            "kunyit secukupnya",
+            "serai",
+            "Garam secukupnya"
+        ],
+        "langkah": [
+            "Rebus ayam hingga matang",
+            "Haluskan bawang merah, bawang putih, dan kunyit",
+            "Tumis bumbu hingga harum",
+            "Masukkan bumbu ke dalam air rebusan ayam ",
+            "Tambahkan serai dan garam",
+            "Masak hingga bumbu meresap",
+            "Soto Ayam siap disajikan"
+        ]
+    }
+    
+]
