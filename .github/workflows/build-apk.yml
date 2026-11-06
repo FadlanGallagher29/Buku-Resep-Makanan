@@ -28,6 +28,10 @@ jobs:
         with:
           channel: 'stable'
 
+      # === BARIS BARU YANG DITAMBAHKAN DI SINI ===
+      - name: Create missing android platform folder
+        run: flutter create . --platforms=android
+
       - name: Install dependencies
         run: flutter pub get
 
