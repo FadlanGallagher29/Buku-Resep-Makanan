@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'views/home_view.dart';
 
-void main( {
+void main() {
     runApp(const BukuResepApp());
 }
 
-class BukuresepApp extends StatelesWidget {
+class BukuResepApp extends StatelessWidget {
     const BukuResepApp({super.key});
 
     @override
