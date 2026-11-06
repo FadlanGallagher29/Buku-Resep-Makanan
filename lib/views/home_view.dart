@@ -26,16 +26,17 @@ class _HomeViewState extends State<HomeView> {
     Widget build(BuildContext context) {
         return Scaffold(
             backgroundColor: const Color(0xFFFFF8F0),
-            appBar: AppBar (
-                title: const Text('Buku Resep Masakan'),
-                style: TextStyle(
+            appBar: AppBar(
+                title: const Text(
+                    'Buku Resep Masakan',
+                    style: TextStyle(
                     fontWeight: FontWeight.bold,
-                    color: Colors.white,
                 ),
             ),
-            backgroundColor: Colors.deepOrange,
-            centerTitle: true,
+
+            centerTitle: true, // Pastikan centerTitle berada di dalam AppBar, bukan di tempat lain
         ),
+
         body: FutureBuilder<List<Resep>>(
             future: daftarResep,
             builder: (context, snapshot) {
